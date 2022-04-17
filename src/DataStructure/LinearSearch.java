@@ -6,6 +6,7 @@ public class LinearSearch
     {
         int[] arr = {23,34,1,45,63,53};
         System.out.println(linearSearch(arr,0,45));
+
     }
     public static boolean linearSearch(int[] arr,int start,int target)
     {
